@@ -1,12 +1,17 @@
-#TO DO
+# TO DO
 
 Instagram:
+## Growth natural audience
 - [x] Auto lilke
 - [x] Auto Follow
 - [x] Unfollow back
+
+## Create fake audience
 - [ ] Create User
 - [ ] First feed fake user
 - [ ] Auto feed fake user
+
+## Growth from fake audience
 - [ ] Fakes follow defined user
 - [ ] Auto activity fake user on defined user
 - [ ] Control kicked fake user and delete them
