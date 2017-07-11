@@ -1,6 +1,5 @@
 # TO DO
 
-Instagram:
 ## Growth natural audience
 - [x] Auto lilke
 - [x] Auto Follow
@@ -16,10 +15,11 @@ Instagram:
 - [ ] Auto activity fake user on defined user
 - [ ] Control kicked fake user and delete them
 
+### Requirements:
 
 Install "Unofficial instamgram API" for python :
 https://github.com/LevPasha/Instagram-API-python
 
-Complete the config file `humblee.bot/instagram`
+Install Selenium
 
-Run ! 
+Complete the config file `humblee.bot/instagram`
