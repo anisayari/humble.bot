@@ -1,8 +1,11 @@
+import imageio
+
+imageio.plugins.ffmpeg.download()
+
 from InstagramAPI import InstagramAPI
-import time
-import sys
 from tools import sleep
 from config import my_username,my_pwd,my_user_id
+
 
 username = my_username
 pwd = my_pwd
@@ -67,6 +70,6 @@ for user_following in following_list:
 
         API.unfollow(userId=following_dict[user_following])
         print str(user_following) + " unfollowing."
-        sleep(3*70)
+        #sleep(3*70)
 
 print count_unfollower," Unfollowers"

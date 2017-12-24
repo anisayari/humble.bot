@@ -1,7 +1,8 @@
 import csv
+
 from InstagramAPI import InstagramAPI
-from tools import sleep
 from config import my_user_id , TRASH_username, TRASH_user_id, TRASH_pwd
+
 
 def follow_me():
     with open('data_feeded.csv', 'r') as f:
